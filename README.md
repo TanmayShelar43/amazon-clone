@@ -11,7 +11,7 @@ adapting seamlessly to both desktop and mobile screens.
 ## Screenshots
 
 ### Desktop View
-
+![Desktop View](images/desktop.png)
 
 
 ### Mobile View
